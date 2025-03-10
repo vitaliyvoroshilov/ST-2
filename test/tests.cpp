@@ -1,8 +1,11 @@
 // Copyright 2025 UNN-CS Team
 
 #include <gtest/gtest.h>
+
 #include "circle.h"
 #include "tasks.h"
+
+#include <cmath>
 
 // Circle():
 

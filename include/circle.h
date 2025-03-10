@@ -13,7 +13,7 @@ class Circle {
   double area;
 
  public:
-  Circle(const double radius_);
+  explicit Circle(const double radius_);
 
   void setRadius(const double radius_);
   void setFerence(const double ference_);
